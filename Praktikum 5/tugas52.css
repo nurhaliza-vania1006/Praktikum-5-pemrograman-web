@@ -1,0 +1,33 @@
+.atas {
+    width: 1000px;
+    height: 150px;
+    background-color: rgb(13, 168, 13);
+    margin: 20px;
+    border: 1px solid black;
+}
+.row {
+    width: 1000px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 20px;
+}
+.column {
+    height: 200px;
+    border: 1px solid black;
+}
+.kuning {
+    width: 200px;
+    float: left;
+    background-color: yellow;
+}
+.orange {
+    width: 700px;
+    float: right;
+    background-color: orange;
+}
+.biru {
+    width: 700px;
+    float: right;
+    background-color: rgb(41, 41, 177);
+}
